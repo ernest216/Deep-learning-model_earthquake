@@ -1,0 +1,19 @@
+{
+    "r2_scores_log": {
+        "acceleration": 0.7682428359985352,
+        "velocity": 0.7514790296554565,
+        "arias": 0.7162173986434937
+    },
+    "r2_scores_original": {
+        "acceleration": 0.7613680958747864,
+        "velocity": 0.661561131477356,
+        "arias": 0.4981366991996765
+    },
+    "training_params": {
+        "epochs": 100,
+        "batch_size": 512,
+        "initial_lr": 0.0005,
+        "debug_mode": true,
+        "max_groups": 10
+    }
+}
